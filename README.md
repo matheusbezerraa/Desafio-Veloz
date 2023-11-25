@@ -11,13 +11,13 @@ A aplicação deverá ter três botões que executam:
 
  API RESTful que fornece dados no formato json : http://petstore-demo-endpoint.execute-api.com/petstore/pets
 
-#Sobre a Aplicação 
+## Sobre a Aplicação 
 
 -Desenvolvi usando react 
 
--Consegui fazer 4 interações 
-•1. Mostrar o valores
-•2. Ordenar por id
-•3. Ordenar por tipo
-•4. Ordenar por preço
+-Consegui fazer 4 interações: 
+  1. Mostrar os valores
+  2. Ordenar por ID
+  3. Ordenar por tipo
+  4. Ordenar por preço
 
